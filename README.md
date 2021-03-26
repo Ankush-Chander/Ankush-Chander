@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/AnkushChander), [Linkedin](https://twitter.com/AnkushChander), [Goodreads](https://www.goodreads.com/user/show/33775209-ankush-chander)
 - ⚡ Fun fact: I spend my day building [RAx](https://raxter.io) with an awesome team.
 
-[![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankush-Chander)](https://github.com/anuraghazra/github-readme-stats)
+[![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankush-Chander&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
