@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on NLP in scientific literature.
-- 🌱 I’m currently learning about graph based ML.
+- 🌱 I’m currently learning about graph based ML and building GUI in python.
 - 🤔 I’m looking for help with best practices in python software development.
 - 🧗Things I am struggling with currently: building scalable apis.   
 - 📫 How to reach me: [twitter](https://twitter.com/AnkushChander), [Linkedin](https://twitter.com/AnkushChander)
