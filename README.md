@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on NLP in scientific literature.
-- 🌱 I’m currently learning about graph based ML and building GUI in python.
-- 🤔 I’m looking for help with best practices in python software development.
+- 🌱 I’m currently learning about [probabilistic graphical models](https://github.com/Ankush-Chander/probabilistic-graphical-models-examples) and building GUI in python.
+- 🤝 I'm looking for collaboration on [irlab](https://github.com/Ankush-Chander/irlab), a tool that will help IR researchers iterate faster.
 - 🧗Things I am struggling with currently: building scalable apis.   
 - 📫 How to reach me: [twitter](https://twitter.com/AnkushChander), [Linkedin](https://twitter.com/AnkushChander)
 - ⚡ Fun fact: I like reading [📚](https://www.goodreads.com/user/show/33775209-ankush-chander), playing [🏀](https://thestudentathletepodcast24.medium.com/the-ankush-chander-experience-532bedab4ef5), counter strike and  [factorio(🧑‍🏭)](https://factorio.com) .
