@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on NLP/NLU in scientific literature.
 - 🌱 I’m currently learning about scalable [search systems](https://www.goodreads.com/book/show/8597368-lucene-in-action).
-- 🤝 We at [RAx](https://raxter.io) are currently hiring for different roles. Please apply [here](https://angel.co/company/rax-1/jobs) if interested. 
+- 🤝 Vive la Mort, vive la guerre, Vive le sacré mercenaire. 
 - 🧗Things I am struggling with currently: refactoring legacy code.   
 - 📫 How to reach me: [twitter](https://twitter.com/AnkushChander), [Linkedin](https://www.linkedin.com/in/ankush-chander-8248a876)
 - ⚡ Fun fact: I like reading [📚](https://www.goodreads.com/user/show/33775209-ankush-chander), playing [🏀](https://thestudentathletepodcast24.medium.com/the-ankush-chander-experience-532bedab4ef5).
